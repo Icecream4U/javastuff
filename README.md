@@ -6,3 +6,7 @@
 
 ### Performance
 - perf linux profiler (http://www.brendangregg.com/perf.html)
+
+### Next Java Features
+- Sealed Types [https://blogs.oracle.com/javamagazine/inside-the-language-sealed-types]
+- Records [https://blogs.oracle.com/javamagazine/records-come-to-java]
